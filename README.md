@@ -34,8 +34,7 @@ The Event Management System is a web-based application designed to help users di
 
  
 ## 🟠 Project Structure
-![File_Structure](event-management/file_structure
-/File_Structure.png/)
+/blob/main/er_diagram/ER_Diagram.PNG
 
 ## 📊 ER Diagram
 ![ER_Diagram](/er_diagram/ER_Diagram.png)
